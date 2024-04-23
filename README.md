@@ -106,6 +106,8 @@ Established star schema relationship between fact table and dimension tables in 
 • Added Roles, Subscribe, alerts
 • Shared the Report
 • Created App and Shared
+![HomePage](https://github.com/hello-mr-vishu/Bank-Customer-Churn-Analysis/assets/130839613/d8d39563-264d-437e-9bd2-1755d9ee3f75)
+
 
 ### Report
 [Report](https://app.powerbi.com/links/UdvwbggkVD?ctid=63b5c61a-66d9-46b2-9b8d-10c275a4acac&pbi_source=linkShare)
