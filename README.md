@@ -84,6 +84,8 @@ The bank is facing a significant challenge with high churn rates and aims to red
   
 ### Data Modelling:
 Established star schema relationship between fact table and dimension tables in Power Pivot.
+![DataModel(CustomerChurn)](https://github.com/hello-mr-vishu/Bank-Customer-Churn-Analysis/assets/130839613/d60c19fe-f976-45be-bf56-85a173ba25a6)
+
 
 ### End To End - TASKS Performed - Life Cycle of a Data Analyst
 
